@@ -3,3 +3,4 @@ npm-debug.log
 src/Assets/npm-debug.log
 src/Views/_partials/omz-sidebar.blade.php
 src/Views/_partials/khusug-sidebar.blade.php
+.idea
